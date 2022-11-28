@@ -13,7 +13,7 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-    width: 1225px;
+    width: 100%;
 }
 
 header h1 {
@@ -58,6 +58,7 @@ p {
     background-image: url("../assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    display: flex;
 }
 
 .float-left {
